@@ -1,0 +1,9 @@
+# Relatorios podem conter dados internos do ambiente auditado.
+Relatorios/
+AD-*/
+*.csv
+*.xlsx
+*.log
+*.zip
+.DS_Store
+Thumbs.db
